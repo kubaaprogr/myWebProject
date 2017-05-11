@@ -9,6 +9,6 @@ app.get("/", function(req, res) {
 	
 });
 
-app.listen(80, function() {
+app.listen(8080, function() {
 	console.log("port 80");
 });
